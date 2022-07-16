@@ -28,7 +28,7 @@ main {
 
 .main-content {
     background-color: #ff7a7a;
-    background-image: url('bg-intro-desktop.png');
+    background-image: url('./bg-intro-desktop.png');
     width: 80%;
     height: 500px;
     display: flex;
@@ -136,7 +136,7 @@ form p a {
     }
 
     .main-content {
-        background-image: url('bg-intro-mobile.png');
+        background-image: url('./bg-intro-mobile.png');
         background-position: center;
         width: 100%;
         height: fit-content;
